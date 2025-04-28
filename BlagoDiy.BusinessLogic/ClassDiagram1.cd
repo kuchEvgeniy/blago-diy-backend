@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BlagoDiy.BusinessLogic.Services.AchievementService">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAACBAAAAQAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Services\AchievementService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlagoDiy.BusinessLogic.Services.CampaignService">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAKAAAACAAAAAAAAAAQAQACAAAAAAAAAAg=</HashCode>
+      <FileName>Services\CampaignService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlagoDiy.BusinessLogic.Services.DonationService">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIBAAAAQAAAAgACAAAAAABAAAQBAAAAAA=</HashCode>
+      <FileName>Services\DonationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlagoDiy.BusinessLogic.Services.UserService">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAIAQAAAAAAAAAAAAABABAAAAAAAIQAAAA=</HashCode>
+      <FileName>Services\UserService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
